@@ -21,7 +21,7 @@ It is a Finance project using world bank dataset, did data exploration using SQL
 
 ---
 #### [Education Project](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
+[<img src="images/Ma Dashboard.png?raw=true"/>](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
