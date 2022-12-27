@@ -6,12 +6,12 @@
 
 
 #### [World Bank Data Analysis](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
-[<img src="images/Bank project dashboard.png?raw=true"/>](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
+[<img src="images/bank image.png?raw=true"/>](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 It is a Finance project using world bank dataset, did data exploration using SQL and visualized using Tableau.
 
 ---
 #### [Massachusetts Education Overview](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
-[<img src="images/Ma Dashboard.png?raw=true"/>](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
+[<img src="images/Ma_logo.jpg?raw=true"/>](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
