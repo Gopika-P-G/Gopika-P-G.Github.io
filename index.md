@@ -12,15 +12,14 @@ Tolulope is the best
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
 ---
+
 #### [World Bank Data Analysis](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 [<img src="images/Bank project dashboard.png?raw=true"/>](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
-It is a Finance project using world bank dataset, did data exploration using SQL and visualized using Tableau
-
+It is a Finance project using world bank dataset, did data exploration using SQL and visualized using Tableau.
 
 ---
-#### [Education Project](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
+#### [Massachusetts Education Overview](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
 [<img src="images/Ma Dashboard.png?raw=true"/>](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
@@ -28,6 +27,15 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
+#### [Door Dash Data Investigation](https://medium.com/@gopika93sub/door-dash-data-investigation-f5a29dfbf834)
+[<img src="images/98ED8B68-3347-472F-9E57-97B797B51299.jpeg?raw=true"/>](https://medium.com/@gopika93sub/door-dash-data-investigation-f5a29dfbf834)
+Case Study: DoorDash is a leading food deliver option in the United States. 
+The data analytics team at DoorDash is constantly being asked to provided insights and value to the company through open scope projects. And this case study is intended to simulate this scenario. In this case study, you will be asked to pretend you have been hired as a data analyst for DoorDash and been challenged to:
+Understand the data
+Find business opportunities & insights
+Propose any data driven action to optimize the campaigns results & generate value to the company
+Overall, the company wants to improve it's marketing & wants to see who has purchased following a marketing campaign
+The Data exploration and visualization done using  Google Sheet.
 
 ### Category Name 2
 
