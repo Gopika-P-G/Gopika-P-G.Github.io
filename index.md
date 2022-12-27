@@ -4,7 +4,6 @@
 
 ### Learn About My Projects
 
-
 #### [World Bank Data Analysis](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 [<img src="images/bank image.png?raw=true"/>](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 It is a Finance project using world bank dataset, did data exploration using SQL and visualized using Tableau.
