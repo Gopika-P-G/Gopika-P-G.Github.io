@@ -16,7 +16,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 ---
 #### [External Link Project](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 [<img src="images/Bank project dashboard.png?raw=true"/>](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+It is a Finance project using world bank dataset, did data exploration using SQL and visualized using Tableau
 
 
 ---
