@@ -19,7 +19,7 @@ What are the top math schools in the state?
 
 ---
 #### [Door Dash Data Investigation](https://medium.com/@gopika93sub/door-dash-data-investigation-f5a29dfbf834)
-[<img src="images/doorlogo.jpg?raw=true"/>](https://medium.com/@gopika93sub/door-dash-data-investigation-f5a29dfbf834)
+[<img src="images/doorlogo.jpg?raw=true"/>]
 Case Study: DoorDash is a leading food deliver option in the United States. 
 The data analytics team at DoorDash is constantly being asked to provided insights and value to the company through open scope projects. And this case study is intended to simulate this scenario. In this case study, you will be asked to pretend you have been hired as a data analyst for DoorDash and been challenged to:
 Understand the data
