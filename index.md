@@ -2,7 +2,7 @@
 
 ---
 
-### [Learn About My Projects]
+### Learn About My Projects
 <img src ="images/portfolio.png"/>
 
 #### [World Bank Data Analysis](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
