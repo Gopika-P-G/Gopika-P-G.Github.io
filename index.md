@@ -25,7 +25,10 @@ In this project, The Data exploration and visualization done using  Google Sheet
 ---
 #### [Customer Market Segmentation Using K-Mean Clustering](https://www.kaggle.com/code/gopika19/customer-market-segmentation-using-clustering/edit)
 [<img src="images/cus_seg.png?raw=true"/>](https://www.kaggle.com/code/gopika19/customer-market-segmentation-using-clustering/edit)
-
+n this project, I'm presented with data on the bank customer for past  6month.
+Data includes Tenure, Transaction frequency, Credit limit etc.
+Bank wants to divide its cutomer in to atleast 3 distinct group.
+Here I'm using K-mean clusturing to divide the customer in to distinct group.
 
 ### Category Name 2
 
