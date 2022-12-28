@@ -29,6 +29,8 @@ In this project, I'm presented with data on the bank customer for past  6month.
 Data includes Tenure, Transaction frequency, Credit limit etc.
 Bank wants to divide its cutomer in to atleast 3 distinct group.
 Here I'm using K-mean clusturing to divide the customer in to distinct group.
+Tools: Jupyter Notbook, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
+Using K-mean grouped the customer in to 4 category: Transactor: Customer who pay least amount of interest Revolvers: Customer who use their credit card as a loan New Customers: New Customer with low tenure VIP/Prime: Customer with high Credit limit
 
 ### Category Name 2
 
