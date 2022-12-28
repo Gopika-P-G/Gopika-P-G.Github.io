@@ -22,6 +22,11 @@ What are the top math schools in the state?
 [<img src="images/doorlogo.jpg?raw=true"/>](https://medium.com/@gopika93sub/door-dash-data-investigation-f5a29dfbf834)
 In this project, The Data exploration and visualization done using  Google Sheet.
 
+---
+#### [Customer Market Segmentation Using K-Mean Clustering](https://www.kaggle.com/code/gopika19/customer-market-segmentation-using-clustering/edit)
+[<img src="images/cus_seg.png?raw=true"/>](https://www.kaggle.com/code/gopika19/customer-market-segmentation-using-clustering/edit)
+
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
