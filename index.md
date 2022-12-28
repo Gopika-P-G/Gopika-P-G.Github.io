@@ -32,13 +32,13 @@ Here I'm using K-mean clusturing to divide the customer in to distinct group.
 Tools: Jupyter Notbook, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
 Using K-mean grouped the customer in to 4 category: Transactor: Customer who pay least amount of interest Revolvers: Customer who use their credit card as a loan New Customers: New Customer with low tenure VIP/Prime: Customer with high Credit limit
 
-### Category Name 2
+### More Projects
 
 - [University Admision prediction using linear regresion](https://www.kaggle.com/code/gopika19/universityadmissionsprediction-linearregression/edit)
-- [Sentiment Analysis using Naive Bayes and random forest](https://github.com/Gopika-P-G/model_project/blob/main/sentiment-analysis-using-naiveb-randfor-logreg.ipynb))
+- [Sentiment Analysis using Naive Bayes and random forest](https://github.com/Gopika-P-G/model_project/blob/main/sentiment-analysis-using-naiveb-randfor-logreg.ipynb)
 - [Python Mini projects](https://github.com/Gopika-P-G/python_ds_project)
 - [Statistical Data exploration](https://github.com/Gopika-P-G/Statistics/blob/main/stat_for_ds.ipynb)
-- [Project 5 Title](http://example.com/)
+- [Python Bootcamp projects](https://github.com/Gopika-P-G/python_bootcamp)
 
 ---
 
