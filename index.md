@@ -8,8 +8,8 @@
 [<img src="images/bank image.png?raw=true"/>](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 In this project, I used SQL for exploring world bank dataset and visualized using Tableau.
 
-
 ---
+
 #### [Massachusetts Education Overview](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
 [<img src="images/Ma_logo.jpg?raw=true"/>](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
@@ -34,10 +34,10 @@ Using K-mean grouped the customer in to 4 category: Transactor: Customer who pay
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [University Admision prediction using linear regresion](https://www.kaggle.com/code/gopika19/universityadmissionsprediction-linearregression/edit)
+- [Sentiment Analysis using Naive Bayes and random forest](https://github.com/Gopika-P-G/model_project/blob/main/sentiment-analysis-using-naiveb-randfor-logreg.ipynb))
+- [Python Mini projects](https://github.com/Gopika-P-G/python_ds_project)
+- [Statistical Data exploration](https://github.com/Gopika-P-G/Statistics/blob/main/stat_for_ds.ipynb)
 - [Project 5 Title](http://example.com/)
 
 ---
