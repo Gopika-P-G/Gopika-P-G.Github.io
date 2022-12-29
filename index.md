@@ -25,12 +25,7 @@ In this project, The Data exploration and visualization done using  Google Sheet
 ---
 #### [Customer Market Segmentation Using K-Mean Clustering](https://www.kaggle.com/code/gopika19/customer-market-segmentation-using-clustering/edit)
 [<img src="images/cus_seg.png?raw=true"/>](https://www.kaggle.com/code/gopika19/customer-market-segmentation-using-clustering/edit)
-In this project, I'm presented with data on the bank customer for past  6month.
-Data includes Tenure, Transaction frequency, Credit limit etc.
-Bank wants to divide its cutomer in to atleast 3 distinct group.
-Here I'm using K-mean clusturing to divide the customer in to distinct group.
-Tools: Jupyter Notbook, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
-Using K-mean grouped the customer in to 4 category: Transactor: Customer who pay least amount of interest Revolvers: Customer who use their credit card as a loan New Customers: New Customer with low tenure VIP/Prime: Customer with high Credit limit
+In this project, I’m presented with data on the bank customer for past 6 month. Data includes Tenure, Transaction frequency, Credit limit etc. Bank wants to divide its customers into at least 3 distinct groups. Here I’m using K-mean clustering to divide the customer into a distinct group. Tools: Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn. Using K-mean grouped the customer in to 4 category: Transactor: Customer who pay least amount of interest Revolvers: Customer who use their credit card as a loan New Customers: New Customer with low tenure VIP/Prime: Customer with high Credit limit
 
 ### More Projects
 
