@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-[<img src="images/About me.png?raw=true"/>]
+<img src="images/About me.png?raw=true"/>
 
 ---
 
