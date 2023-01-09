@@ -1,12 +1,14 @@
 title: Gopika PG # your name (or website title) here
  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I love finding insights from data,
-  passionate about learning new skills <br><br>
   Proficient:Python, SQL, Excel, GoogleSheet, Machine Learning, HTML, CSS. <br><br>
   Novice:Javascript, Angular JS, Beautiful soup.<br><br>
   <a href="https://www.linkedin.com/in/gopikapg/">View My LinkedIn Profile</a> <br><br>
   <a href="https://public.tableau.com/app/profile/gopikaperkulam">Tableau Profile</a> <br><br>
+  Certificates:Machine learning specialization, Google Analytics, Python.
+  Hobbies:Painting, Water bike, Badminton, Chess, Travelling
+  
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
