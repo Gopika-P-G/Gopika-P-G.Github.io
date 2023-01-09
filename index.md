@@ -1,5 +1,7 @@
 # Welcome to My Portfolio
 
+[<img src="images/About me.png?raw=true"/>]
+
 ---
 
 ### Learn About My Projects
