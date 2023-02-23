@@ -4,8 +4,8 @@
 ### Learn About My Projects
 
 #### [Data Analysis on NBA dataset using tableau](https://medium.com/@gopika93sub/data-analysis-on-nba-dataset-using-tableau-2df07041f787)
-[<img src="images/bank image.png?raw=true"/>](https://medium.com/@gopika93sub/data-analysis-on-nba-dataset-using-tableau-2df07041f787)
-In this project, I used SQL for exploring world bank dataset and visualized using Tableau.
+[<img src="images/nba.png?raw=true"/>](https://medium.com/@gopika93sub/data-analysis-on-nba-dataset-using-tableau-2df07041f787)
+In this project,The data was clean and the exploration was done on tableau public.
 
 #### [World Bank Data Analysis](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 [<img src="images/bank image.png?raw=true"/>](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
