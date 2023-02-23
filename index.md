@@ -14,7 +14,11 @@ In this project, The data was clean and the exploration was done on tableau publ
 In this project, I used SQL for exploring world bank dataset and visualized using Tableau.
 
 ---
+#### [Data analysis on healthcare dataset using SQL](https://medium.com/@gopika93sub/data-analysis-on-healthcare-dataset-using-sql-e041a358f6e2)
+[<img src="images/hstl.png?raw=true"/>](https://medium.com/@gopika93sub/data-analysis-on-healthcare-dataset-using-sql-e041a358f6e2)
+In this project, I used SQL server to explore this healthcare dataset.
 
+---
 #### [Massachusetts Education Overview](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
 [<img src="images/Ma_logo.jpg?raw=true"/>](https://medium.com/@gopika93sub/massachusetts-education-overview-bc734a0b9fc4)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
