@@ -24,7 +24,7 @@ What are the top math schools in the state?
 
 ---
 #### [Data exploration and data visualization on mining dataset using python](https://medium.com/@gopika93sub/data-exploration-and-data-visualization-on-mining-dataset-using-python-9a6325dcf18e)
-[<img src="images/nba.png?raw=true"/>](https://medium.com/@gopika93sub/data-exploration-and-data-visualization-on-mining-dataset-using-python-9a6325dcf18e)
+[<img src="images/F4F427BD-B00C-447D-ABDE-A9A6026D7F81.png?raw=true"/>](https://medium.com/@gopika93sub/data-exploration-and-data-visualization-on-mining-dataset-using-python-9a6325dcf18e)
 For this project, I’m using the industrial dataset from kaggle. The modules utilized for data manipulation and visulization are Pandas, Matplotlib and seaborn.
 
 ---
