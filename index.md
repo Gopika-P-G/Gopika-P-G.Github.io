@@ -7,6 +7,8 @@
 [<img src="images/nba.png?raw=true"/>](https://medium.com/@gopika93sub/data-analysis-on-nba-dataset-using-tableau-2df07041f787)
 In this project, The data was clean and the exploration was done on tableau public.
 
+---
+
 #### [World Bank Data Analysis](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 [<img src="images/bank image.png?raw=true"/>](https://medium.com/@gopika93sub/bank-data-analysis-239897a2957b)
 In this project, I used SQL for exploring world bank dataset and visualized using Tableau.
@@ -19,6 +21,11 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 What schools are struggling the most?
 How does class size affect college admission?
 What are the top math schools in the state? 
+
+---
+#### [Data exploration and data visualization on mining dataset using python](https://medium.com/@gopika93sub/data-exploration-and-data-visualization-on-mining-dataset-using-python-9a6325dcf18e)
+[<img src="images/nba.png?raw=true"/>](https://medium.com/@gopika93sub/data-exploration-and-data-visualization-on-mining-dataset-using-python-9a6325dcf18e)
+For this project, I’m using the industrial dataset from kaggle. The modules utilized for data manipulation and visulization are Pandas, Matplotlib and seaborn.
 
 ---
 #### [Door Dash Data Investigation](https://medium.com/@gopika93sub/door-dash-data-investigation-f5a29dfbf834)
